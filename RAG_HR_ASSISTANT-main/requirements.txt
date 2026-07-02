@@ -1,4 +1,6 @@
-pypdf
+streamlit
+groq
+google-genai
 pinecone
 python-dotenv
-groq
+pypdf
