@@ -3,10 +3,4 @@ groq
 google-genai
 pinecone
 python-dotenv
-<<<<<<< HEAD
 pypdf
-=======
-groq
-streamlit
-google-genai
->>>>>>> a5ecdcc (Improve HR assistant prompt)
